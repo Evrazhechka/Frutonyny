@@ -528,10 +528,16 @@ h2 {
   font-family: "Roboto Condensed";
 }
 .phone-number {
+  color:#095f72;
   font-weight: bold;
   text-decoration: none;
   align-self: stretch;
   position: relative;
+}
+.tooltip {
+  position: relative;
+  font-size: 0.875rem;
+  color: #262626;
 }
 .contact-info,
 .left {
